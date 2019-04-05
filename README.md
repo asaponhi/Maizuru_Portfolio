@@ -1,7 +1,6 @@
 # Maizuru_Portfolio
 
 ## 現時点の使える技術で作れるもの
-| 内容 |
 |----|
 | HTML/CSS/JavaScriptでシンプルなWEBサイトを開発することができます。 |
 | Unityを用いてアプリ・ゲームを開発することができます。 |
